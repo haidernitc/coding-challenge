@@ -4,8 +4,8 @@ public class Main {
     
     public static void main(String[] args) {
         System.out.println("Welcome to the SAP Community Coding Challenge #3");
-        //removeJoiner("\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC66");
-        //addJoiner("\uD83D\uDC69\uD83D\uDCBB");
+        //removeJoiner("\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC66"); O/P: [👨, 👩, 👧, 👦]
+        //addJoiner("\uD83D\uDC69\uD83D\uDCBB"); O/P: 👩‍💻 
     }
 
     public String removeJoiner(String emoji) {
